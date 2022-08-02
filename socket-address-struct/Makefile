@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -Wall
 
-PROGRAMS = ByteOrder IPAddr
+PROGRAMS = ByteOrder IPAddr NameResolution
 
 all: $(PROGRAMS)
 
